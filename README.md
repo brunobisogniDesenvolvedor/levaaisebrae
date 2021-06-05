@@ -16,3 +16,6 @@ multi coleta
 AI de rota usado google maps 
 melhora no sistema de erp e pagamento direto para o motoboy e forncedor 
 retenção dos pagamentos e recorrencia da assinatura 
+
+hoje o sistema para exibição encontra-se no seguinte url 
+:  http://www.levaai.silviosantana.com.br/
